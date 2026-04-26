@@ -17,32 +17,50 @@
 
 ---
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+## 👋 About Me
 
-### 👋 About Me
+<table>
+<tr>
+<td valign="top" width="55%">
 
-```php
-<?php
+<br/>
 
-class TanbirAhmed extends Developer
-{
-    public string $role       = 'Full-Stack Laravel Developer';
-    public string $location   = 'Uttara, Dhaka, Bangladesh 🇧🇩';
-    public int    $experience = 3; // years
+I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with **3+ years** of professional experience building production-grade web applications that scale.
 
-    public array $currently = [
-        'working'  => 'Imjol IT — CodeCanyon Products',
-        'building' => 'Production-grade SPAs with Laravel + React',
-        'using'    => 'AI tools to ship faster & smarter',
-    ];
+<br/>
 
-    public function passions(): array {
-        return ['Clean Code', 'Performance', 'AI-Assisted Dev'];
-    }
-}
-```
+🔭 &nbsp;Building **CodeCanyon products** at **Imjol IT**
+🚀 &nbsp;Specialise in **Laravel · React · Inertia.js** SPAs
+🤖 &nbsp;Leverage **AI tools** to ship faster & smarter
+🎯 &nbsp;Obsessed with **clean code**, performance & scalability
+🐛 &nbsp;Resolved **70+ critical bugs** across mission-critical systems
+📦 &nbsp;Shipped **6+ live products** with **98% client satisfaction**
+📫 &nbsp;Reach me at **ahmedtanbir442@gmail.com**
 
-<br clear="right"/>
+<br/>
+
+**Currently working on:**
+
+![Status](https://img.shields.io/badge/🔨_Building-CodeCanyon_Laravel_Apps-2E86C1?style=flat-square)
+![Learning](https://img.shields.io/badge/📖_Exploring-AI_Dev_Workflows-6C3483?style=flat-square)
+![Open](https://img.shields.io/badge/💼_Open_To-Freelance_&_Collab-27AE60?style=flat-square)
+
+<br/>
+
+</td>
+<td valign="top" width="45%">
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="90%" />
+</div>
+
+<br/>
+
+</td>
+</tr>
+</table>
 
 ---
 
