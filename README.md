@@ -1,21 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A5276,100:2E86C1&height=200&section=header&text=Tanbir%20Ahmed&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Laravel%20Developer&descAlignY=58&descSize=20&descColor=AED6F1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A5276,100:2E86C1&height=220&section=header&text=Tanbir%20Ahmed&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Laravel%20Developer&descAlignY=58&descSize=22&descColor=AED6F1&animation=fadeIn" width="100%"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Full-Stack+Laravel+Developer+%F0%9F%9A%80;Laravel+%C2%B7+React+%C2%B7+Inertia.js+%C2%B7+TypeScript;Building+Production-Grade+SPAs;3%2B+Years+%7C+6%2B+CodeCanyon+Products;AI-Assisted+Development+%F0%9F%A4%96" alt="Typing SVG" />
 
-<div align="center">
+<br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-tanbir.nixsoftware.net-1A5276?style=for-the-badge&labelColor=0d1117)](https://tanbir.nixsoftware.net/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tanbir--ahmed07-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanbir-ahmed07)
 [![GitHub](https://img.shields.io/badge/GitHub-tdottahmed-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tdottahmed)
 [![Email](https://img.shields.io/badge/Email-ahmedtanbir442@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedtanbir442@gmail.com)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=tdottahmed&color=2E86C1&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ### 👋 About Me
 
@@ -24,8 +26,8 @@
 
 class TanbirAhmed extends Developer
 {
-    public string $role     = 'Full-Stack Laravel Developer';
-    public string $location = 'Uttara, Dhaka, Bangladesh 🇧🇩';
+    public string $role       = 'Full-Stack Laravel Developer';
+    public string $location   = 'Uttara, Dhaka, Bangladesh 🇧🇩';
     public int    $experience = 3; // years
 
     public array $currently = [
@@ -44,45 +46,38 @@ class TanbirAhmed extends Developer
 
 ---
 
+## ⚡ Quick Stats
+
+<div align="center">
+
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| 🏆 **3+ Years** | 📦 **6+ Products** | 😊 **98% Satisfaction** | ⬆️ **99.8% Uptime** |
+| Experience | CodeCanyon Live | Client Rating | Bangladesh Air Force |
+
+</div>
+
+---
+
 ## 🚀 Tech Stack
 
 <div align="center">
 
-### 💻 Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+### Languages & Runtime
+<img src="https://skillicons.dev/icons?i=php,js,ts,bash&theme=dark" />
 
-### 🧩 Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=laravel,react,vue,tailwind,bootstrap&theme=dark" />
 
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-366488?style=for-the-badge&logo=php&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+### Databases & Storage
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" />
 
-### ⚙️ DevOps & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+### DevOps, Cloud & Tools
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,nginx,linux,vite&theme=dark" />
 
-### 🤖 AI-Assisted Development
-![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)
+### AI-Assisted Development
+[![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
+[![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh)
 
 > Leveraging AI tools for **prompt engineering**, **code generation**, **refactoring**, and **CLI workflows** to ship production-quality code faster.
 
@@ -107,19 +102,28 @@ class TanbirAhmed extends Developer
 
 ---
 
-## 🏆 Career Highlights
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-| 🎯 Metric | 📈 Result |
-|-----------|-----------|
-| Years of Experience | **3+ Years** |
-| CodeCanyon Products | **6+ Live Products** |
-| Client Satisfaction | **98%** |
-| Load Time Reduction | **35%** via query optimisation & caching |
-| System Uptime Achieved | **99.8%** (Bangladesh Air Force system) |
-| Critical Bugs Resolved | **70+** across frontend & backend |
-| Agile Features Delivered | **3 major features** ahead of schedule |
+[![trophy](https://github-profile-trophy.vercel.app/?username=tdottahmed&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🧠 Core Competencies
+
+<div align="center">
+
+![MVC](https://img.shields.io/badge/MVC_Design_Pattern-Expert-2E86C1?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-Expert-2E86C1?style=flat-square)
+![REST](https://img.shields.io/badge/RESTful_APIs-Expert-2E86C1?style=flat-square)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-Advanced-1A7A4A?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT_Authentication-Advanced-1A7A4A?style=flat-square)
+![SPA](https://img.shields.io/badge/SPA_Architecture-Advanced-1A7A4A?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD_Pipelines-Proficient-6C3483?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker_%2F_DevOps-Proficient-6C3483?style=flat-square)
 
 </div>
 
@@ -180,26 +184,21 @@ class TanbirAhmed extends Developer
 
 ---
 
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tdottahmed&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=2E86C1&line=2E86C1&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
 ## 🎓 Education & Training
 
 - 🎓 **BSc in Computer Science & Engineering** — IUBAT University, Dhaka *(2017–2022)*
 - 📜 **Web Development Certification** — BASIS-SEIP Training Program *(Apr 2024)*  
   *Laravel · PHP · JavaScript · REST APIs · Clean Code · Deployment*
-
----
-
-## 🧠 Concepts & Architecture
-
-```
-MVC Design Pattern    ██████████  Expert
-OOP                   ██████████  Expert
-RESTful APIs          ██████████  Expert
-SOLID Principles      █████████░  Advanced
-JWT Authentication    █████████░  Advanced
-SPA Architecture      ████████░░  Advanced
-CI/CD Pipelines       ███████░░░  Proficient
-Docker / DevOps       ███████░░░  Proficient
-```
 
 ---
 
@@ -211,13 +210,15 @@ Docker / DevOps       ███████░░░  Proficient
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanbir-ahmed07)
 [![Email](https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedtanbir442@gmail.com)
 
+<br/>
+
+*Open to freelance projects, collaborations, and full-time opportunities.*
+
 </div>
 
 ---
 
 <div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=tdottahmed&color=2E86C1&style=for-the-badge&label=Profile+Views)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86C1,100:1A5276&height=100&section=footer" width="100%"/>
 
