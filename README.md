@@ -41,7 +41,7 @@ I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with 
 </td>
 <td width="40%" align="center">
 <br/>
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/macbook.gif" width="100%" alt="Macbook Animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer Animation"/>
 </td>
 </tr>
 </table>
@@ -60,20 +60,33 @@ I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with 
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
+### 🌐 Languages & Core
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,react,ts,js,vue,tailwind,bootstrap&theme=dark&perline=8" />
-    <br>
-    <br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,git,github,docker,aws,linux&theme=dark&perline=8" />
-  </a>
+<img src="https://skillicons.dev/icons?i=php,ts,js,html,css,bash&theme=dark&perline=10" />
 </p>
 
-### AI-Assisted Development
+### 🚀 Frameworks & Libraries
+<p align="center">
+<img src="https://skillicons.dev/icons?i=laravel,react,vue,tailwind,bootstrap,vite&theme=dark&perline=10" />
+</p>
+
+### 💾 Databases & Caching
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite&theme=dark&perline=10" />
+</p>
+
+### ☁️ DevOps, Tools & OS
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,nginx,linux,postman&theme=dark&perline=10" />
+</p>
+
+<br/>
+
+### 🤖 AI-Assisted Development
 [![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai)
 [![Cursor](https://img.shields.io/badge/Cursor_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white)](https://cursor.sh)
 
