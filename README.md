@@ -164,16 +164,132 @@ I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with 
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<details>
+<summary><b>📈 EduTrade LMS</b> — Full-Stack Learning Management System &nbsp;•&nbsp; <i>Production-Ready</i></summary>
+<br/>
 
-| Project | Stack | Links |
-|---------|-------|-------|
-| **🎓 MAGIC LMS** — AI-Oriented Learning Management System *(CodeCanyon Approved)* | Laravel · React · Inertia.js · MySQL | [![CodeCanyon](https://img.shields.io/badge/CodeCanyon-82B541?style=flat-square&logo=envato&logoColor=white)](https://codecanyon.net/item/magic-lms-ai-oriented-learning-managementsystem/57593011) [![Demo](https://img.shields.io/badge/Demo-0f172a?style=flat-square&logo=googlechrome&logoColor=white)](https://magiclms-new.imjol.com/) |
-| **🛒 Single Page E-Commerce Platform** *(Production Live)* | Laravel · React (TS) · Inertia.js | [![Live](https://img.shields.io/badge/Live-3b82f6?style=flat-square&logo=googlechrome&logoColor=white)](https://directmalaysia.com/) |
-| **🏭 Zamzam Import & Export** — B2B Wholesale Platform | Laravel · React · Inertia.js · MySQL | [![Live](https://img.shields.io/badge/Live-3b82f6?style=flat-square&logo=googlechrome&logoColor=white)](https://zamzamcanada.com/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tdottahmed/zam-zam) |
-| **📚 Darpon English Teaching Zone** — EdTech Platform | Laravel · React · Inertia.js · MySQL | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tdottahmed/darpon-institute) |
+> A production-ready Learning Management System built for online trading education, featuring live classes, real-time support chat, and integrated payment processing.
 
-</div>
+**Tech Stack:**
+![Laravel](https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP_8.2-777BB4?style=flat-square&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![WebSockets](https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+**Key Features:**
+
+| Feature | Description |
+|---------|-------------|
+| 📚 **Course Platform** | Structured courses with modules, lessons, enrollments, progress tracking, and student reviews |
+| 🎥 **Live Classes** | Real-time video sessions via JaaS/Jitsi integration, accessible from both web and mobile |
+| 💬 **Real-time Support Chat** | WebSocket-powered support desk with agent assignment, typing indicators, and conversation history (Laravel Reverb + Laravel Echo) |
+| 🤖 **AI Support** | ChatGPT-integrated support ticketing system for automated responses |
+| 💳 **Payment Gateway** | SSLCommerz integration for BDT/USD multi-currency transactions with encrypted payment handling |
+| 📱 **Mobile App** | Companion React Native app consuming the same REST API |
+| 🔐 **Multi-auth** | Email, phone/OTP, Google OAuth & Facebook OAuth; role-based access (Admin, Instructor, Student, Support) |
+| 🌍 **Internationalization** | Multi-language content management with a custom TranslationService |
+| ⚙️ **Admin Panel** | 27+ admin controllers covering users, courses, enrollments, analytics, payments, settings, and more |
+| 📦 **CDN Storage** | Bunny CDN integration for video and asset delivery |
+
+</details>
+
+<details>
+<summary><b>🎓 MAGIC LMS</b> — AI-Oriented Learning Management System &nbsp;•&nbsp; <i>CodeCanyon Approved ✅</i></summary>
+<br/>
+
+> A commercial-grade Learning Management System with AI-powered features, published on CodeCanyon marketplace. Built for educators and institutions needing a scalable, feature-rich e-learning platform.
+
+**Tech Stack:**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Highlights:**
+- 🛒 Published & sold on **CodeCanyon marketplace** with verified buyer reviews
+- 🤖 AI-assisted course generation and content management
+- 🏗️ Modular architecture supporting large-scale course libraries
+- 💰 Integrated payment processing and subscription management
+
+**Links:**
+[![CodeCanyon](https://img.shields.io/badge/CodeCanyon-82B541?style=for-the-badge&logo=envato&logoColor=white)](https://codecanyon.net/item/magic-lms-ai-oriented-learning-managementsystem/57593011)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://magiclms-new.imjol.com/)
+
+</details>
+
+<details>
+<summary><b>🛒 DirectMalaysia</b> — Single Page E-Commerce Platform &nbsp;•&nbsp; <i>Production Live 🟢</i></summary>
+<br/>
+
+> A production-grade single-page e-commerce storefront built with a Laravel backend and a fully reactive React frontend, delivered with zero page reloads via Inertia.js.
+
+**Tech Stack:**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React_TypeScript-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Highlights:**
+- ⚡ SPA architecture — instant navigation, no full-page reloads
+- 🛍️ Full product catalogue, cart, and checkout flow
+- 🔐 Secure authentication and order management
+- 📱 Mobile-responsive storefront
+
+**Links:**
+[![Live Site](https://img.shields.io/badge/Live_Site-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://directmalaysia.com/)
+
+</details>
+
+<details>
+<summary><b>🏭 Zamzam Import & Export</b> — B2B Wholesale Platform &nbsp;•&nbsp; <i>Production Live 🟢</i></summary>
+<br/>
+
+> A B2B wholesale platform for import & export operations, featuring bulk order management, client portals, and inventory tracking for Zamzam Canada.
+
+**Tech Stack:**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Highlights:**
+- 📦 Bulk product listings with tiered pricing for wholesale buyers
+- 👤 Client portal with order history, invoicing, and account management
+- 🌐 Multi-region support for international B2B transactions
+- 📊 Admin dashboard with sales analytics and inventory reports
+
+**Links:**
+[![Live Site](https://img.shields.io/badge/Live_Site-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zamzamcanada.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tdottahmed/zam-zam)
+
+</details>
+
+<details>
+<summary><b>📚 Darpon English Teaching Zone</b> — EdTech Platform &nbsp;•&nbsp; <i>Open Source</i></summary>
+<br/>
+
+> An EdTech platform for English language education, providing structured course content, student progress tracking, and instructor-led lessons.
+
+**Tech Stack:**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Highlights:**
+- 🎯 Structured English learning paths with lessons and assessments
+- 📈 Student progress tracking and performance analytics
+- 👨‍🏫 Instructor dashboard for content and student management
+- 🔒 Role-based access for admins, instructors, and students
+
+**Links:**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tdottahmed/darpon-institute)
+
+</details>
 
 ---
 
