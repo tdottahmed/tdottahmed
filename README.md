@@ -115,7 +115,8 @@ I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with 
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=tdottahmed&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+<!-- GitHub Trophies API is currently down -->
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=tdottahmed&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/> -->
 
 <br/><br/>
 
@@ -127,7 +128,13 @@ I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with 
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tdottahmed&show_icons=true&theme=react&hide_border=true&bg_color=0f172a&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&count_private=true" alt="GitHub Stats" />
+<a href="https://github.com/tdottahmed"><img src="https://img.shields.io/github/followers/tdottahmed?label=Followers&style=for-the-badge&logo=github&color=3b82f6&labelColor=0f172a&logoColor=white" alt="Followers"/></a>
+<a href="https://github.com/tdottahmed?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftdottahmed&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=3b82f6&labelColor=0f172a" alt="Public Repos"/></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/CodeCanyon-6%2B_Products-82B541?style=for-the-badge&logo=envato&logoColor=white" alt="CodeCanyon"/>
+<img src="https://img.shields.io/badge/Experience-3%2B_Years-3b82f6?style=for-the-badge&labelColor=0f172a" alt="Experience"/>
 
 </td>
 <td align="center" valign="top">
