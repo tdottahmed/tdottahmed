@@ -1,17 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:3b82f6&height=250&section=header&text=Hi%20There!%20👋%20I'm%20Tanbir%20Ahmed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Laravel%20Developer&descAlignY=58&descSize=25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:0f172a,70:1e3a8a,100:3b82f6&height=300&section=header&text=Tanbir%20Ahmed&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Laravel%20Developer%20%7C%20SPA%20Architect%20%7C%20AI-Powered%20Dev&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://tanbir.nixsoftware.net/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Laravel+Developer+%F0%9F%9A%80;Laravel+%C2%B7+React+%C2%B7+Inertia.js+%C2%B7+TypeScript;Building+Production-Grade+SPAs;AI-Assisted+Development+%F0%9F%A4%96;3%2B+Years+%7C+6%2B+CodeCanyon+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=720&lines=Full-Stack+Laravel+Developer+%F0%9F%9A%80;Laravel+%C2%B7+React+%C2%B7+Inertia.js+%C2%B7+TypeScript;Crafting+Production-Grade+SPAs+%F0%9F%8F%97%EF%B8%8F;AI-Assisted+Development+%F0%9F%A4%96;6%2B+Live+CodeCanyon+Products+%E2%9C%85;Always+Learning%2C+Always+Shipping+%F0%9F%9A%A2" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://tanbir.nixsoftware.net/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=Web&logoColor=3b82f6"/></a>
+<a href="https://tanbir.nixsoftware.net/"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=3b82f6"/></a>
 <a href="https://linkedin.com/in/tanbir-ahmed07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/tdottahmed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:ahmedtanbir442@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+![Followers](https://img.shields.io/github/followers/tdottahmed?label=Followers&style=flat-square&color=3b82f6&labelColor=0f172a&logo=github&logoColor=white)
+&nbsp;·&nbsp;
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftdottahmed&query=%24.public_repos&label=Public+Repos&style=flat-square&color=3b82f6&labelColor=0f172a)
+&nbsp;·&nbsp;
+![Views](https://komarev.com/ghpvc/?username=tdottahmed&color=3b82f6&style=flat-square&label=Profile+Views)
+&nbsp;·&nbsp;
+![Open to Work](https://img.shields.io/badge/Open_to_Work-✅-22c55e?style=flat-square&labelColor=0f172a)
 
 </div>
 
@@ -19,9 +29,9 @@
 
 <table align="center" border="0" width="100%" style="border: none;">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-<h2 align="center">👋 About Me</h2>
+## 👋 About Me
 
 I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with **3+ years** of professional experience building production-grade web applications that scale.
 
@@ -30,18 +40,19 @@ I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with 
 - 🤖 Leverage **AI tools** to ship faster & smarter
 - 🎯 Obsessed with **clean code**, performance & scalability
 - 📦 Shipped **6+ live products** with **98% client satisfaction**
-- 📫 Reach me at: **ahmedtanbir442@gmail.com**
+- 📫 **ahmedtanbir442@gmail.com**
 
 <br/>
 
 **Currently working on:**
+
 ![Status](https://img.shields.io/badge/🔨_Building-CodeCanyon_Laravel_Apps-3b82f6?style=flat-square)
 ![Learning](https://img.shields.io/badge/📖_Exploring-AI_Dev_Workflows-6C3483?style=flat-square)
 
 </td>
-<td width="40%" align="center">
+<td width="45%" align="center">
 <br/>
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Developer Animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="95%" alt="Developer Animation"/>
 </td>
 </tr>
 </table>
@@ -52,9 +63,13 @@ I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with 
 
 <div align="center">
 
-| 🏆 Experience | 📦 CodeCanyon Live | 😊 Client Rating | ⬆️ BAF System Uptime |
-|:---:|:---:|:---:|:---:|
-| **3+ Years** | **6+ Products** | **98% Satisfaction** | **99.8% Uptime** |
+<img src="https://img.shields.io/badge/🏆_Experience-3%2B_Years-3b82f6?style=for-the-badge&labelColor=0f172a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/📦_CodeCanyon-6%2B_Products-3b82f6?style=for-the-badge&labelColor=0f172a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/😊_Satisfaction-98%25-22c55e?style=for-the-badge&labelColor=0f172a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/⬆️_Uptime-99.8%25-22c55e?style=for-the-badge&labelColor=0f172a"/>
 
 </div>
 
@@ -65,22 +80,22 @@ I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with 
 <div align="center">
 
 ### 🌐 Languages & Core
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=php,ts,js,html,css,bash&theme=dark&perline=10" />
 </p>
 
 ### 🚀 Frameworks & Libraries
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=laravel,react,vue,tailwind,bootstrap,vite&theme=dark&perline=10" />
 </p>
 
 ### 💾 Databases & Caching
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite&theme=dark&perline=10" />
 </p>
 
 ### ☁️ DevOps, Tools & OS
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,nginx,linux,postman&theme=dark&perline=10" />
 </p>
 
@@ -99,6 +114,10 @@ I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with 
 ## 📊 GitHub Analytics
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tdottahmed&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" width="100%" alt="GitHub Trophies"/>
+
+<br/><br/>
 
 <table border="0" cellspacing="0" cellpadding="12">
 <tr>
@@ -133,7 +152,15 @@ I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with 
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=tdottahmed&theme=react&hide_border=true&background=0f172a&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=tdottahmed&theme=react&hide_border=true&background=0f172a&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tdottahmed/tdottahmed/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tdottahmed/tdottahmed/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/tdottahmed/tdottahmed/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 </div>
 
@@ -193,7 +220,7 @@ I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with 
 ## 🌟 Featured Projects
 
 <details>
-<summary><b>📈 EduTrade LMS</b> — Full-Stack Learning Management System &nbsp;•&nbsp; <i>Production-Ready</i></summary>
+<summary><b>📈 EduTrade LMS</b> &nbsp;<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square"/> <img src="https://img.shields.io/badge/WebSockets-333?style=flat-square"/> &nbsp;•&nbsp; <i>Production-Ready 🟢</i></summary>
 <br/>
 
 > A production-ready Learning Management System built for online trading education, featuring live classes, real-time support chat, and integrated payment processing.
@@ -226,7 +253,7 @@ I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with 
 </details>
 
 <details>
-<summary><b>🎓 MAGIC LMS</b> — AI-Oriented Learning Management System &nbsp;•&nbsp; <i>CodeCanyon Approved ✅</i></summary>
+<summary><b>🎓 MAGIC LMS</b> &nbsp;<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square"/> <img src="https://img.shields.io/badge/AI-6C3483?style=flat-square"/> &nbsp;•&nbsp; <i>CodeCanyon Approved ✅</i></summary>
 <br/>
 
 > A commercial-grade Learning Management System with AI-powered features, published on CodeCanyon marketplace. Built for educators and institutions needing a scalable, feature-rich e-learning platform.
@@ -250,7 +277,7 @@ I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with 
 </details>
 
 <details>
-<summary><b>🛒 DirectMalaysia</b> — Single Page E-Commerce Platform &nbsp;•&nbsp; <i>Production Live 🟢</i></summary>
+<summary><b>🛒 DirectMalaysia</b> &nbsp;<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> &nbsp;•&nbsp; <i>Production Live 🟢</i></summary>
 <br/>
 
 > A production-grade single-page e-commerce storefront built with a Laravel backend and a fully reactive React frontend, delivered with zero page reloads via Inertia.js.
@@ -273,7 +300,7 @@ I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with 
 </details>
 
 <details>
-<summary><b>🏭 Zamzam Import & Export</b> — B2B Wholesale Platform &nbsp;•&nbsp; <i>Production Live 🟢</i></summary>
+<summary><b>🏭 Zamzam Import & Export</b> &nbsp;<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> &nbsp;•&nbsp; <i>Production Live 🟢</i></summary>
 <br/>
 
 > A B2B wholesale platform for import & export operations, featuring bulk order management, client portals, and inventory tracking for Zamzam Canada.
@@ -297,7 +324,7 @@ I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with 
 </details>
 
 <details>
-<summary><b>📚 Darpon English Teaching Zone</b> — EdTech Platform &nbsp;•&nbsp; <i>Open Source</i></summary>
+<summary><b>📚 Darpon English Teaching Zone</b> &nbsp;<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> &nbsp;•&nbsp; <i>Open Source</i></summary>
 <br/>
 
 > An EdTech platform for English language education, providing structured course content, student progress tracking, and instructor-led lessons.
@@ -333,9 +360,24 @@ I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with 
 
 ## 🎓 Education & Training
 
-- 🎓 **BSc in Computer Science & Engineering** — IUBAT University, Dhaka *(2017–2022)*
-- 📜 **Web Development Certification** — BASIS-SEIP Training Program *(Apr 2024)*  
-  *Laravel · PHP · JavaScript · REST APIs · Clean Code · Deployment*
+<div align="center">
+
+🎓 &nbsp;**BSc in Computer Science & Engineering** — IUBAT University, Dhaka
+&nbsp;&nbsp;![2017–2022](https://img.shields.io/badge/2017–2022-0f172a?style=flat-square)
+
+<br/>
+
+📜 &nbsp;**Web Development Certification** — BASIS-SEIP Training Program
+&nbsp;&nbsp;![Apr 2024](https://img.shields.io/badge/Apr_2024-3b82f6?style=flat-square)
+&nbsp;
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0f172a?style=flat-square)
+![Clean Code](https://img.shields.io/badge/Clean_Code-0f172a?style=flat-square)
+![Deployment](https://img.shields.io/badge/Deployment-0f172a?style=flat-square)
+
+</div>
 
 ---
 
@@ -347,14 +389,16 @@ I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with 
 <a href="https://linkedin.com/in/tanbir-ahmed07"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ahmedtanbir442@gmail.com"><img src="https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+<br/>
+
 *Open to freelance projects, collaborations, and full-time opportunities.*
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=tdottahmed&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:0f172a&height=120&section=footer" width="100%"/>
 
 </div>
