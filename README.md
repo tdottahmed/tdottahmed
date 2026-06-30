@@ -100,8 +100,36 @@ I'm a **Full-Stack Laravel Developer** from **Dhaka, Bangladesh** 🇧🇩 with 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=tdottahmed&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=3b82f6&icon_color=3b82f6&text_color=ffffff&custom_title=GitHub%20Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdottahmed&layout=compact&langs_count=6&theme=react&hide_border=true&bg_color=0f172a&title_color=3b82f6&text_color=ffffff&custom_title=Top%20Languages" />
+<table border="0" cellspacing="0" cellpadding="12">
+<tr>
+<td align="center" valign="top">
+
+**📊 GitHub Stats**
+
+![Followers](https://img.shields.io/github/followers/tdottahmed?label=Followers&style=for-the-badge&logo=github&color=3b82f6&labelColor=0f172a&logoColor=white)
+
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftdottahmed&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&color=3b82f6&labelColor=0f172a)
+
+![CodeCanyon](https://img.shields.io/badge/CodeCanyon-6%2B_Products-82B541?style=for-the-badge&logo=envato&logoColor=white)
+
+![Experience](https://img.shields.io/badge/Experience-3%2B_Years-3b82f6?style=for-the-badge&labelColor=0f172a)
+
+</td>
+<td align="center" valign="top">
+
+**🗣️ Top Languages**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
