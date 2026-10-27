@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,30:0f172a,70:1e3a8a,100:3b82f6&height=300&section=header&text=Tanbir%20Ahmed&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Software%20Engineer%20%7C%20Laravel%20%C2%B7%20React%20%C2%B7%20Next.js%20%C2%B7%20Django&descAlignY=58&descSize=20" width="100%"/>
 
 <a href="https://tanbir.nixsoftware.net/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=3B82F6&center=true&vCenter=true&width=780&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;Laravel+%C2%B7+Next.js+16+%C2%B7+React+19+%C2%B7+Django+%C2%B7+TypeScript;Money-Safe+Checkouts+%26+Double-Entry+Ledgers+%F0%9F%92%B3;Real-Time+WebSockets+with+Laravel+Reverb+%E2%9A%A1;847%2B+Automated+Tests+%C2%B7+Hardened+VPS+CI%2FCD+%F0%9F%9B%A1%EF%B8%8F;Magic+LMS+%E2%80%94+Approved+on+Envato+CodeCanyon+%E2%9C%85" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=3B82F6&center=true&vCenter=true&width=780&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;Laravel+%C2%B7+Next.js+16+%C2%B7+React+19+%C2%B7+Django+%C2%B7+TypeScript;Money-Safe+Checkouts+%26+Double-Entry+Ledgers+%F0%9F%92%B3;Real-Time+WebSockets+with+Laravel+Reverb+%E2%9A%A1;847%2B+Automated+Tests+%C2%B7+Hardened+VPS+CI%2FCD+%F0%9F%9B%A1%EF%B8%8F;Open+to+Remote+Full-Stack+Roles+%F0%9F%8C%8D" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -12,7 +12,6 @@
 <a href="https://linkedin.com/in/tanbir-ahmed07"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/tdottahmed"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="mailto:ahmedtanbir442@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://codecanyon.net/item/magic-lms-ai-oriented-learning-managementsystem/57593011"><img src="https://img.shields.io/badge/CodeCanyon-82B541?style=for-the-badge&logo=envato&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -40,7 +39,6 @@ I'm a **Full-Stack Software Engineer** from **Uttara, Dhaka, Bangladesh** 🇧�
 - 💳 Obsessed with **financial correctness** — idempotent payment webhooks, append-only double-entry ledgers, decimal-only math & row-level stock locking
 - ⚡ Build **real-time features** with **Laravel Reverb**, **Horizon**, **Redis**, **Celery**, and **JaaS/Jitsi** live classrooms
 - 🛡️ Own the full lifecycle — from **relational schema design** to **hardened Ubuntu VPS** deploys with **GitHub Actions CI/CD**
-- 📦 Author of **Magic LMS** on **Envato CodeCanyon**, maintaining **6+ commercial products**
 - 👨‍🏫 Mentor junior developers and set team standards for clean architecture & testing
 
 **Currently shipping:**
@@ -56,31 +54,25 @@ I'm a **Full-Stack Software Engineer** from **Uttara, Dhaka, Bangladesh** 🇧�
 </tr>
 </table>
 
-```php
-<?php
+```console
+$ whoami
+tanbir-ahmed · full-stack software engineer
 
-final class TanbirAhmed extends FullStackEngineer
-{
-    public string $location   = 'Uttara, Dhaka, Bangladesh';
-    public float  $experience = 3.5; // years, in production
+$ cat ~/.profile
+location    Uttara, Dhaka, Bangladesh 🇧🇩
+experience  3.5+ years in production
+stack       Laravel · Django · Next.js · React · TypeScript
+focus       commerce · real-time · devops
+languages   Bengali (native), English (professional)
 
-    public array $stack = [
-        'backend'  => ['Laravel', 'Django', 'DRF', 'Reverb', 'Horizon', 'Celery'],
-        'frontend' => ['Next.js 16', 'React 19', 'TypeScript', 'Inertia.js', 'Tailwind'],
-        'mobile'   => ['React Native'],
-        'data'     => ['PostgreSQL', 'MySQL', 'MariaDB', 'Redis'],
-        'devops'   => ['Ubuntu', 'Nginx', 'Docker', 'GitHub Actions', 'Cloudflare'],
-    ];
+$ cat ~/principles.txt
+→ Money is a decimal, never a float
+→ Every webhook is idempotent
+→ If it touches stock or money, it's audited
+→ Ship it with tests
 
-    public array $principles = [
-        'Money is a decimal, never a float',
-        'Every webhook is idempotent',
-        'If it touches stock or money, it is audited',
-        'Ship it with tests',
-    ];
-
-    public array $speaks = ['Bengali' => 'Native', 'English' => 'Professional'];
-}
+$ status
+● open to remote full-stack roles
 ```
 
 ---
@@ -95,7 +87,7 @@ final class TanbirAhmed extends FullStackEngineer
 &nbsp;
 <img src="https://img.shields.io/badge/🧪_Automated_Tests-847%2B-22c55e?style=for-the-badge&labelColor=0f172a"/>
 <br/>
-<img src="https://img.shields.io/badge/📦_CodeCanyon-6%2B_Products-82B541?style=for-the-badge&labelColor=0f172a"/>
+<img src="https://img.shields.io/badge/🌏_Clients-Bangladesh_·_Canada_·_Malaysia-3b82f6?style=for-the-badge&labelColor=0f172a"/>
 &nbsp;
 <img src="https://img.shields.io/badge/⬆️_VPS_Uptime-99.9%25-22c55e?style=for-the-badge&labelColor=0f172a"/>
 &nbsp;
@@ -259,23 +251,6 @@ Hardened Ubuntu VPS (**Cloudflare Strict TLS, Fail2ban, restricted sudo**), Ngin
 </details>
 
 <details>
-<summary><b>🎓 Magic LMS — AI-Oriented Learning Management System</b> &nbsp;•&nbsp; <i>CodeCanyon Approved ✅</i></summary>
-<br/>
-
-> A commercial LMS reviewed, approved, and sold on **Envato CodeCanyon**, with multi-gateway payments and a modular course architecture.
-
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logo=inertia&logoColor=white"/> <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/> <img src="https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white"/> <img src="https://img.shields.io/badge/SSLCommerz-0f172a?style=flat-square"/>
-
-- 🛒 Passed Envato's code & design review for the **CodeCanyon** marketplace
-- 💳 Global and local gateways: **Stripe, PayPal, SSLCommerz**
-- 🏗️ Maintained alongside a portfolio of **6+ commercial products**
-
-<a href="https://codecanyon.net/item/magic-lms-ai-oriented-learning-managementsystem/57593011"><img src="https://img.shields.io/badge/CodeCanyon-82B541?style=for-the-badge&logo=envato&logoColor=white"/></a>
-<a href="https://magiclms-new.imjol.com/"><img src="https://img.shields.io/badge/Live_Demo-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-
-</details>
-
-<details>
 <summary><b>🏭 Zamzam Import & Export Inc. — B2B Wholesale Platform (Canada)</b> &nbsp;•&nbsp; <i>Jul 2025 – Jan 2026 · Live 🟢</i></summary>
 <br/>
 
@@ -326,7 +301,6 @@ Hardened Ubuntu VPS (**Cloudflare Strict TLS, Fail2ban, restricted sudo**), Ngin
 
 - 📈 Architected and deployed **[TradingChart.org](https://tradingchart.org)** — Laravel 12, React 19, PostgreSQL — with JaaS/Jitsi live classes, a Reverb-powered support desk, SSLCommerz BDT/USD payments, Bunny CDN streaming, and a **React Native** companion app
 - 🛒 Built and launched **[DirectMalaysia.com](https://directmalaysia.com)** (Laravel, Inertia.js, React/TypeScript) and kept its Linux/Nginx VPS at **99.9% uptime**
-- 🎓 Authored **Magic LMS**, approved on **Envato CodeCanyon**, and maintain **6+ commercial products**
 - 👨‍🏫 Mentored **3 junior developers** through code reviews and team standards for clean Laravel architecture and testing
 
 </details>
@@ -358,10 +332,6 @@ Hardened Ubuntu VPS (**Cloudflare Strict TLS, Fail2ban, restricted sudo**), Ngin
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=tdottahmed&theme=react&hide_border=true&background=0f172a&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=tdottahmed&theme=react&hide_border=true&bg_color=0f172a&color=3b82f6&line=3b82f6&point=ffffff" alt="Activity Graph" width="100%"/></a>
 
 <br/><br/>
 
